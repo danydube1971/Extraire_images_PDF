@@ -1,7 +1,7 @@
 # Extraire_images_PDF
 Extraction des images contenus dans le ou les PDF du dossier actuel au format JPG
 
-Le script parcourt tous les fichiers dans le dossier actuel ayant l'extension ".pdf" et utilise la commande système "pdfimages" 
+Le script parcours tous les fichiers dans le dossier actuel ayant l'extension ".pdf" et utilise la commande système "pdfimages" 
 pour extraire toutes les images de chaque fichier PDF. Les images extraites sont stockées dans un dossier nommé "images PDF" créé 
 dans le dossier actuel. Enfin, toutes les images extraites sont renommées pour qu'elles soient au format .jpg.
 
